@@ -1,0 +1,17 @@
+{
+  "name": "software-architecture-teaching-software",
+  "version": "1.0.0",
+  "description": "软件体系结构实验2，我的作业。展示了四种软件体系结构，包含解释、原理图、核心代码、运行展示。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/helloweeee/software-architecture-teaching-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
